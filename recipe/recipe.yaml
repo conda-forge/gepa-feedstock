@@ -1,5 +1,5 @@
 context:
-  version: "0.0.26"
+  version: "0.0.27"
   python_min: 3.10
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/g/gepa/gepa-${{ version }}.tar.gz
-    sha256: 0119ca8022e93b6236bc154a57bb910bdb117485dc067d77777933dd3e9e9ad8
+    sha256: 02ecb19e4aa6a1f5bb2994cd54b2057f25cd5e8cd662fee514303b2a8ba0a738
 
 build:
   number: 0
